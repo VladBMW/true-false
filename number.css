@@ -1,0 +1,25 @@
+html,body{
+    margin: 0;
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input,p{
+    display: inline;
+    font-size: 150px;
+    transform:scale(10);
+    width: 150px;
+    margin: 0;
+}
+#p{
+    
+    font-size: 15px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-left: 190px;
+    color: chartreuse;
+}
